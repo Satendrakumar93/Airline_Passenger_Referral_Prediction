@@ -1,8 +1,8 @@
 # Airline_Passenger_Referral_Prediction
-###Data includes airline reviews from 2006 to 2019 for popular airlines around the world with multiple choice and free text questions. Data is scraped in Spring 2019. The main objective is to predict whether passengers will refer the airline to their friends.
-###Data includes airline reviews from 2006 to 2019 for popular airlines around the world with multiple choice and free text questions. Data is scraped in Spring 2019. The main objective is to predict whether passengers will refer the airline to their friends.
+### Data includes airline reviews from 2006 to 2019 for popular airlines around the world with multiple choice and free text questions. Data is scraped in Spring 2019. The main objective is to predict whether passengers will refer the airline to their friends.
+### Data includes airline reviews from 2006 to 2019 for popular airlines around the world with multiple choice and free text questions. Data is scraped in Spring 2019. The main objective is to predict whether passengers will refer the airline to their friends.
 
-###Spirit Airways is the most frequently used airlines with a total count of around 2800 according to the dataset given aircraft A320 has travelled most frequently and also been used by most of the people.
+### Spirit Airways is the most frequently used airlines with a total count of around 2800 according to the dataset given aircraft A320 has travelled most frequently and also been used by most of the people.
 
 we can notice that Solo Leisure has highest value count. From this we can conclude that most of people who travel through airline travels in solo. Followed by College then Family. 77% of passengers chose to fly in economy class.most of the people prefers cost-effective economy class air travel and high income peoples are generally prefer business class as it is 2nd most popular cabin type
 
